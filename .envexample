@@ -1,0 +1,4 @@
+RABBITMQ_URL=amqp://username:password@localhost:5672/
+QUEUE_NAME=assignment_queue
+QUEUE_EXCHANGE=assignment_exchange
+ROUTING_KEY=assignment_routing_key
